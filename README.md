@@ -8,4 +8,4 @@
 |21-2|4-2 [비정형데이터분석](https://github.com/hwahyeon/KNOU_Statistics/tree/main/%EB%B9%84%EC%A0%95%ED%98%95%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D)|R||
 |21-2|2-2 대학수학의이해|wxMaxima||
 |21-2|2-2 확률의개념과응용|R||
-|21-2|4-2 빅데이터의이해|R||
+|21-2|4-2 빅데이터의이해|R(||
