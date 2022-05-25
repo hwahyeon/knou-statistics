@@ -9,7 +9,3 @@
 |21-2|4-2 [비정형데이터분석](https://github.com/hwahyeon/KNOU_Statistics/tree/main/%EB%B9%84%EC%A0%95%ED%98%95%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D)|R|||
 |21-2|4-2 [빅데이터의이해](https://github.com/hwahyeon/KNOU_Statistics/tree/main/%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%9D%98%EC%9D%B4%ED%95%B4)|R|||
 |21-2|2-2 [대학수학의이해](https://github.com/hwahyeon/KNOU_Statistics/tree/main/%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EC%9D%98%EC%9D%B4%ED%95%B4)|wxMaxima|||
-|22-1|2-1 통계학개론|R|||
-|22-1|3-1 데이터시각화|R|||
-|22-1|4-1 데이터마이닝|R|||
-|22-1|4-1 신뢰성공학|R|||
