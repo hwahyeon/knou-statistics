@@ -4,7 +4,7 @@
 * 중간 과제물이나 기말 과제물 등은 비공개 repository에 저장한다.
 * 하계 계절학기는 '하', 동계 계절학기는 '동'으로 표기한다.
 
-|수강|개설 학기 / 제목|사용|실습 완료|비고|
+|수강|개설 학기 / 과목|사용|실습 여부|비고|
 |---|---|---|---|---|
 |21-2|2-2 [확률의개념과응용](https://github.com/hwahyeon/KNOU_Statistics/tree/main/%ED%99%95%EB%A5%A0%EC%9D%98%EA%B0%9C%EB%85%90%EA%B3%BC%EC%9D%91%EC%9A%A9)|R|||
 |21-2|4-2 [비정형데이터분석](https://github.com/hwahyeon/KNOU_Statistics/tree/main/%EB%B9%84%EC%A0%95%ED%98%95%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D)|R|||
