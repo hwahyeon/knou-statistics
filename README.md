@@ -3,18 +3,18 @@
 * 과제물 따위는 비공개 repository에 저장한다.
 * 하계 계절학기는 '3', 동계 계절학기는 '4'로 표기한다.
 
-|수강 학기|과목|사용|실습 여부|비고|
+|학기|과목|영문명|사용|비고|
 |---|---|---|---|---|
-|21-2|[확률의개념과응용]()|R|||
-|21-2|국가통계의이해||||
-|21-2|원격대학교육의이해||||
-|21-2|[비정형데이터분석]()|R|||
-|21-2|[빅데이터의이해]()|R|||
-|23-1|[통계학개론]()|R|||
-|23-1|[데이터시각화]()|R|||
-|23-1|통계조사방법론|R|||
-|23-2|생물통계학||||
-|23-2|UNIX시스템||||
-|23-2|여론조사의이해||||
-|23-2|바이오통계학||||
-|23-2|보건통계학||||
+|21-2|[확률의개념과응용]()|Probability Concept and Applications|R||
+|21-2|국가통계의이해|Introduction to Official Statistics|||
+|21-2|원격대학교육의이해|The Understanding of Education in Open Universities|||
+|21-2|[비정형데이터분석]()|Unstructured Data Analytics|R||
+|21-2|[빅데이터의이해]()|Introduction to Big Data|R||
+|23-1|[통계학개론]()|Introduction to Statistics|R||
+|23-1|[데이터시각화]()|Data Visualization|R||
+|23-1|통계조사방법론|Survey Research Methodology|R||
+|23-2|생물통계학|Biostatistics|||
+|23-2|UNIX시스템|UNIX Systems|||
+|23-2|여론조사의이해|Introduction to Opinion Polls|||
+|23-2|바이오통계학|Fundamentals of Biostatistics|||
+|23-2|보건통계학|Health Statistics|||
