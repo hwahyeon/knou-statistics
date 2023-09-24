@@ -5,10 +5,10 @@
 
 |학기|과목|영문명|사용|비고|
 |---|---|---|---|---|
-|21-2|[확률의개념과응용]()|Probability Concept and Applications|R||
+|21-2|[확률의개념과응용](https://github.com/hwahyeon/knou-probability-concept)|Probability Concept and Applications|R||
 |21-2|국가통계의이해|Introduction to Official Statistics|||
 |21-2|원격대학교육의이해|The Understanding of Education in Open Universities|||
-|21-2|[비정형데이터분석]()|Unstructured Data Analytics|R||
+|21-2|[비정형데이터분석](https://github.com/hwahyeon/knou-unstructured-analytics)|Unstructured Data Analytics|R||
 |21-2|[빅데이터의이해]()|Introduction to Big Data|R||
 |23-1|[통계학개론]()|Introduction to Statistics|R||
 |23-1|[데이터시각화]()|Data Visualization|R||
