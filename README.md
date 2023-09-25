@@ -12,7 +12,7 @@
 |21-2|[비정형데이터분석](https://github.com/hwahyeon/knou-unstructured-analytics)|Unstructured Data Analytics|R||
 |21-2|[빅데이터의이해]()|Introduction to Big Data|R||
 |23-1|[통계학개론]()|Introduction to Statistics|R||
-|23-1|[데이터시각화]()|Data Visualization|R||
+|23-1|[데이터시각화](https://github.com/hwahyeon/knou-data-visualization)|Data Visualization|R||
 |23-1|통계조사방법론|Survey Research Methodology|||
 |23-2|생물통계학|Biostatistics|||
 |23-2|UNIX시스템|UNIX Systems|||
