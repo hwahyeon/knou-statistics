@@ -17,5 +17,5 @@
 |23-2|생물통계학|Biostatistics|||
 |23-2|UNIX시스템|UNIX Systems|||
 |23-2|여론조사의이해|Introduction to Opinion Polls|||
-|23-2|바이오통계학|Fundamentals of Biostatistics|||
+|23-2|[바이오통계학](https://github.com/hwahyeon/knou-biostatistics)|Fundamentals of Biostatistics|||
 |23-2|[보건통계학](https://github.com/hwahyeon/knou-health-statistics)|Health Statistics|||
