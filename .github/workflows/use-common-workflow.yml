@@ -1,0 +1,12 @@
+name: Use Common Workflow
+
+on:
+  push:
+    paths:
+      - 'books/**.md'
+  workflow_dispatch:
+
+jobs:
+  callCommonWorkflow:
+    uses: hwahyeon/book-reading-actions/.github/workflows/common-workflow.yml@main
+    secrets: inherit
