@@ -15,4 +15,9 @@ This project is managed by GitHub Project **[Reading University Textbooks](https
 |2023-2|UNIX Systems|UNIX시스템|||
 |2023-2|Introduction to Opinion Polls|여론조사의이해|||
 |2023-2|Health Statistics|보건통계학|||
-
+|2025-1|Regression Models|회귀모형|||
+|2025-1|Forecasting Methods and Its Applications|예측방법론|||
+|2025-1|Data Mining|데이터마이닝|||
+|2025-1|Multivariate Data Analysis|다변량분석|||
+|2025-1|Reliability Engineering|신뢰성공학|||
+|2025-1|Introduction to Statistical Deep Learning|딥러닝의통계적이해|||
