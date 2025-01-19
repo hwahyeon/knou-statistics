@@ -8,5 +8,15 @@
         "Chapter 6: \uac00\uc124\uac80\uc815": 6,
         "Chapter 7: \ud1b5\uacc4\uc801 \ube44\uad50": 7,
         "Chapter 8: \ud68c\uadc0\ubaa8\ud615": 8
+    },
+    "Data Mining": {
+        "Chapter 1: \ub370\uc774\ud130 \ub9c8\uc774\ub2dd\uc774\ub780": 9,
+        "Chapter 2: \ud68c\uadc0\ubaa8\ud615": 10,
+        "Chapter 3: \uc758\uc0ac\uacb0\uc815\ub098\ubb34": 11,
+        "Chapter 4: \uc559\uc0c1\ube14\ubaa8\ud615": 12,
+        "Chapter 5: \uc2e0\uacbd\ub9dd\ubaa8\ud615": 13,
+        "Chapter 6: \ubaa8\ud615\ube44\uad50\ud3c9\uac00": 14,
+        "Chapter 7: \uad70\uc9d1\ubd84\uc11d": 15,
+        "Chapter 8: \uc5f0\uad00\uc131\ubd84\uc11d": 16
     }
 }
