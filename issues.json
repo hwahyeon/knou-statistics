@@ -16,5 +16,17 @@
         "Chapter 6: \ubaa8\ud615\ube44\uad50\ud3c9\uac00": 14,
         "Chapter 7: \uad70\uc9d1\ubd84\uc11d": 15,
         "Chapter 8: \uc5f0\uad00\uc131\ubd84\uc11d": 16
+    },
+    "Introduction to Statistical Deep Learning": {
+        "Chapter 1: \ub525\ub7ec\ub2dd\uc758 \uac1c\uc694": 17,
+        "Chapter 2: \ub525\ub7ec\ub2dd\uacfc \ud1b5\uacc4\ud559": 18,
+        "Chapter 3: \ub525\ub7ec\ub2dd \ubaa8\ud615\uc758 \uad6c\uc870\uc640 \ud559\uc2b5": 19,
+        "Chapter 4: \ub525\ub7ec\ub2dd\uc758 \uc81c \ubb38\uc81c\uc640 \ubc1c\uc804": 20,
+        "Chapter 5: \ud569\uc131\uacf1\uc2e0\uacbd\ub9dd\uc758 \uae30\ucd08": 21,
+        "Chapter 6: \ud569\uc131\uacf1\uc2e0\uacbd\ub9dd\uc758 \uc751\uc6a9": 22,
+        "Chapter 7: \uc624\ud1a0\uc778\ucf54\ub354\uc640 GAN": 23,
+        "Chapter 8: \uc21c\ud658\uc2e0\uacbd\ub9dd": 24,
+        "Chapter 9: \ub525\ub7ec\ub2dd \ubaa8\ud615\uc744 \uc774\uc6a9\ud55c \uc790\uc5f0\uc5b4\ucc98\ub9ac": 25,
+        "Chapter 10: \ub525\ub7ec\ub2dd \uc2e4\uc2b5": 26
     }
 }
