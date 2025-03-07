@@ -6,7 +6,7 @@
 
 ## Chapters
 - [x] Chapter 1: 데이터 마이닝이란
-- [ ] Chapter 2: 회귀모형
+- [x] Chapter 2: 회귀모형
 - [ ] Chapter 3: 의사결정나무
 - [ ] Chapter 4: 앙상블모형
 - [ ] Chapter 5: 신경망모형
