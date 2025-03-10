@@ -5,7 +5,7 @@
 **Labels:** Introduction to Statistical Deep Learning
 
 ## Chapters
-- [ ] Chapter 1: 딥러닝의 개요
+- [x] Chapter 1: 딥러닝의 개요
 - [ ] Chapter 2: 딥러닝과 통계학
 - [ ] Chapter 3: 딥러닝 모형의 구조와 학습
 - [ ] Chapter 4: 딥러닝의 제 문제와 발전
