@@ -6,7 +6,7 @@
 
 ## Chapters
 - [x] Chapter 1: 딥러닝의 개요
-- [ ] Chapter 2: 딥러닝과 통계학
+- [x] Chapter 2: 딥러닝과 통계학
 - [ ] Chapter 3: 딥러닝 모형의 구조와 학습
 - [ ] Chapter 4: 딥러닝의 제 문제와 발전
 - [ ] Chapter 5: 합성곱신경망의 기초
