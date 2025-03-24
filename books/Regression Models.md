@@ -5,7 +5,7 @@
 **Labels:** Regression Models
 
 ## Chapters
-- [ ] Chapter 1: 단순회귀모형
+- [x] Chapter 1: 단순회귀모형
 - [ ] Chapter 2: 중회귀모형
 - [ ] Chapter 3: 변수선택
 - [ ] Chapter 4: 모형개발
