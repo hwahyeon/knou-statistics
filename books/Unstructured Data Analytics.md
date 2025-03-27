@@ -5,7 +5,7 @@
 **Labels:** Unstructured Data Analytics
 
 ## Chapters
-- [ ] Chapter 1: 데이터의 개념 및 환경 변화
+- [x] Chapter 1: 데이터의 개념 및 환경 변화
 - [ ] Chapter 2: 비정형 데이터 분석의 도구
 - [ ] Chapter 3: 텍스트 데이터 불러오기
 - [ ] Chapter 4: 텍스트 데이터의 전처리
