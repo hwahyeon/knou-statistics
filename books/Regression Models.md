@@ -7,7 +7,7 @@
 ## Chapters
 - [x] Chapter 1: 단순회귀모형
 - [x] Chapter 2: 중회귀모형
-- [ ] Chapter 3: 변수선택
+- [x] Chapter 3: 변수선택
 - [ ] Chapter 4: 모형개발
 - [ ] Chapter 5: 자료의 진단
 - [ ] Chapter 6: 모형의 진단
