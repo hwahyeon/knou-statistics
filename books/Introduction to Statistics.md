@@ -8,7 +8,7 @@
 - [x] Chapter 1: 데이터와 통계학
 - [x] Chapter 2: 데이터 요약
 - [x] Chapter 3: 확률과 확률변수
-- [ ] Chapter 4: 확률분포와 표본분포
+- [x] Chapter 4: 확률분포와 표본분포
 - [ ] Chapter 5: 추정
 - [ ] Chapter 6: 가설검정
 - [ ] Chapter 7: 통계적 비교
