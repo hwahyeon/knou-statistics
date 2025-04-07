@@ -32,5 +32,22 @@
         "Chapter 6: \ubca1\ud130\uacf5\uac04\ubaa8\ud615\uc744 \uc774\uc6a9\ud55c \ud14d\uc2a4\ud2b8 \ub370\uc774\ud130 \ud45c\ud604": 40,
         "Chapter 7: \ud14d\uc2a4\ud2b8 \ub370\uc774\ud130\uc758 \ud1b5\uacc4\uc801 \ubd84\uc11d": 41,
         "Chapter 8: \ud14d\uc2a4\ud2b8 \ub370\uc774\ud130 \ubd84\uc11d \uc0ac\ub840": 42
+    },
+    "Reliability Engineering": {
+        "Chapter 1: \uc2e0\ub8b0\uc131\uc758 \uac1c\ub150": 43,
+        "Chapter 2: \uc2e0\ub8b0\uc131 \ucc99\ub3c4": 44,
+        "Chapter 3: \uc2dc\uc2a4\ud15c \uc2e0\ub8b0\ub3c4": 45,
+        "Chapter 4: \ube44\ubaa8\uc218\uc801 \ubc29\ubc95\uc5d0 \uc758\ud55c \ub370\uc774\ud130 \ud574\uc11d": 46,
+        "Chapter 5: \ubaa8\uc218\uc801 \uc218\uba85\ubd84\ud3ec \ubaa8\ud615": 47,
+        "Chapter 6: \ubaa8\uc218\uc801 \ucd94\uc815\ubc29\ubc95\uacfc \ubc18\ubaa8\uc218\uc801 \ubc29\ubc95": 48,
+        "Chapter 7: \uc218\ub9ac\uacc4\uc758 \uc2e0\ub8b0\uc131 \ubd84\uc11d": 49,
+        "Chapter 8: \ubcf4\uc804\uc131\uad00\ub9ac": 50,
+        "Chapter 9: FMEA\uc640 FTA": 51,
+        "Chapter 10: \uc2e0\ub8b0\uc131\uc124\uacc4": 52,
+        "Chapter 11: \uc2e0\ub8b0\uc131 \uc608\uce21": 53,
+        "Chapter 12: \uc2e0\ub8b0\uc131 \uc2dc\ud5d8": 54,
+        "Chapter 13: \uac00\uc18d\uc2dc\ud5d8": 55,
+        "Chapter 14: \uace0\uc7a5\ubd84\uc11d": 56,
+        "Chapter 15: \uc18c\uc7ac/\ubd80\ud488/\uc7a5\ube44\uc758 \uc2e0\ub8b0\uc131 \ud5a5\uc0c1 \uc815\ucc45": 57
     }
 }
