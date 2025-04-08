@@ -16,7 +16,7 @@ This project is managed by GitHub Project **[Reading University Textbooks](https
 |2023-2|Introduction to Opinion Polls|여론조사의이해|||
 |2023-2|Health Statistics|보건통계학|||
 |2025-1|Regression Models|회귀모형|||
-|2025-1|Forecasting Methods and Its Applications|예측방법론|||
+|2025-1|Prediction Methodology|예측방법론|||
 |2025-1|Data Mining|데이터마이닝|||
 |2025-1|Multivariate Data Analysis|다변량분석|||
 |2025-1|Reliability Engineering|신뢰성공학|||
