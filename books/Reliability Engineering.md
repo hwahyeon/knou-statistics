@@ -5,7 +5,7 @@
 **Labels:** Reliability Engineering
 
 ## Chapters
-- [ ] Chapter 1: 신뢰성의 개념
+- [x] Chapter 1: 신뢰성의 개념
 - [ ] Chapter 2: 신뢰성 척도
 - [ ] Chapter 3: 시스템 신뢰도
 - [ ] Chapter 4: 비모수적 방법에 의한 데이터 해석
