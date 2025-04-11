@@ -5,7 +5,7 @@
 **Labels:** Multivariate Data Analysis
 
 ## Chapters
-- [ ] Chapter 1: 다변량 시각화
+- [x] Chapter 1: 다변량 시각화
 - [ ] Chapter 2: 주성분분석
 - [ ] Chapter 3: 인자분석
 - [ ] Chapter 4: 군집분석
