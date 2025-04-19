@@ -7,7 +7,7 @@
 ## Chapters
 - [x] Chapter 1: 예측의 개요
 - [x] Chapter 2: 예측 데이터: 시계열
-- [ ] Chapter 3: 시계열의 자기상관
+- [x] Chapter 3: 시계열의 자기상관
 - [ ] Chapter 4: 시계열모형
 - [ ] Chapter 5: 시계열모형을 이용한 예측
 - [ ] Chapter 6: 회귀모형을 이용한 예측
