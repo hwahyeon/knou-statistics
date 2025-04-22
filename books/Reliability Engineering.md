@@ -8,7 +8,7 @@
 - [x] Chapter 1: 신뢰성의 개념
 - [x] Chapter 2: 신뢰성 척도
 - [x] Chapter 3: 시스템 신뢰도
-- [ ] Chapter 4: 비모수적 방법에 의한 데이터 해석
+- [x] Chapter 4: 비모수적 방법에 의한 데이터 해석
 - [ ] Chapter 5: 모수적 수명분포 모형
 - [ ] Chapter 6: 모수적 추정방법과 반모수적 방법
 - [ ] Chapter 7: 수리계의 신뢰성 분석
