@@ -8,7 +8,7 @@
 - [x] Chapter 1: 다변량 시각화
 - [x] Chapter 2: 주성분분석
 - [x] Chapter 3: 인자분석
-- [ ] Chapter 4: 군집분석
+- [x] Chapter 4: 군집분석
 - [ ] Chapter 5: 다차원척도법(MDS)
 - [ ] Chapter 6: 정준상관분석
 - [ ] Chapter 7: 판별분석
