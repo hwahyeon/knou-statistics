@@ -9,7 +9,7 @@
 - [x] Chapter 2: 주성분분석
 - [x] Chapter 3: 인자분석
 - [x] Chapter 4: 군집분석
-- [ ] Chapter 5: 다차원척도법(MDS)
+- [x] Chapter 5: 다차원척도법(MDS)
 - [ ] Chapter 6: 정준상관분석
 - [ ] Chapter 7: 판별분석
 - [ ] Chapter 8: 로지스틱 회귀분석
