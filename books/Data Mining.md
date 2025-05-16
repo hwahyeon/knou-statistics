@@ -10,7 +10,7 @@
 - [x] Chapter 3: 의사결정나무
 - [x] Chapter 4: 앙상블모형
 - [x] Chapter 5: 신경망모형
-- [ ] Chapter 6: 모형비교평가
+- [x] Chapter 6: 모형비교평가
 - [ ] Chapter 7: 군집분석
 - [ ] Chapter 8: 연관성분석
 
