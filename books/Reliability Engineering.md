@@ -11,7 +11,7 @@
 - [x] Chapter 4: 비모수적 방법에 의한 데이터 해석
 - [x] Chapter 5: 모수적 수명분포 모형
 - [x] Chapter 6: 모수적 추정방법과 반모수적 방법
-- [ ] Chapter 7: 수리계의 신뢰성 분석
+- [x] Chapter 7: 수리계의 신뢰성 분석
 - [ ] Chapter 8: 보전성관리
 - [ ] Chapter 9: FMEA와 FTA
 - [ ] Chapter 10: 신뢰성설계
