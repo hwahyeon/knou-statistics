@@ -14,7 +14,7 @@
 - [x] Chapter 7: 수리계의 신뢰성 분석
 - [x] Chapter 8: 보전성관리
 - [x] Chapter 9: FMEA와 FTA
-- [ ] Chapter 10: 신뢰성설계
+- [x] Chapter 10: 신뢰성설계
 - [ ] Chapter 11: 신뢰성 예측
 - [ ] Chapter 12: 신뢰성 시험
 - [ ] Chapter 13: 가속시험
