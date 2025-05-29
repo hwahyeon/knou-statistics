@@ -17,7 +17,7 @@
 - [x] Chapter 10: 신뢰성설계
 - [x] Chapter 11: 신뢰성 예측
 - [x] Chapter 12: 신뢰성 시험
-- [ ] Chapter 13: 가속시험
+- [x] Chapter 13: 가속시험
 - [ ] Chapter 14: 고장분석
 - [ ] Chapter 15: 소재/부품/장비의 신뢰성 향상 정책
 
