@@ -11,7 +11,7 @@
 - [x] Chapter 4: 텍스트 데이터의 전처리
 - [x] Chapter 5: 텍스트 데이터에 대한 탐색적 자료분석
 - [x] Chapter 6: 벡터공간모형을 이용한 텍스트 데이터 표현
-- [ ] Chapter 7: 텍스트 데이터의 통계적 분석
+- [x] Chapter 7: 텍스트 데이터의 통계적 분석
 - [ ] Chapter 8: 텍스트 데이터 분석 사례
 
 ### Translated Chapters
