@@ -11,7 +11,7 @@
 - [x] Chapter 4: 모형개발
 - [x] Chapter 5: 자료의 진단
 - [x] Chapter 6: 모형의 진단
-- [ ] Chapter 7: 일반화선형모형 Ⅰ
+- [x] Chapter 7: 일반화선형모형 Ⅰ
 - [ ] Chapter 8: 일반화선형모형 Ⅱ
 
 ### Translated Chapters
