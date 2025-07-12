@@ -11,7 +11,7 @@
 - [x] Chapter 4: 군집분석
 - [x] Chapter 5: 다차원척도법(MDS)
 - [x] Chapter 6: 정준상관분석
-- [ ] Chapter 7: 판별분석
+- [x] Chapter 7: 판별분석
 - [ ] Chapter 8: 로지스틱 회귀분석
 - [ ] Chapter 9: 나무모형
 
