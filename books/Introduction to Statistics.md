@@ -11,7 +11,7 @@
 - [x] Chapter 4: 확률분포와 표본분포
 - [x] Chapter 5: 추정
 - [x] Chapter 6: 가설검정
-- [ ] Chapter 7: 통계적 비교
+- [x] Chapter 7: 통계적 비교
 - [ ] Chapter 8: 회귀모형
 
 ### Translated Chapters
