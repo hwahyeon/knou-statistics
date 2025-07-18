@@ -21,3 +21,10 @@ This project is managed by GitHub Project **[Reading University Textbooks](https
 |2025-1|Multivariate Data Analysis|다변량분석|||
 |2025-1|Reliability Engineering|신뢰성공학|||
 |2025-1|Introduction to Statistical Deep Learning|딥러닝의통계적이해|||
+|2025-2|Fundamentals of Biostatistics|바이오통계학|||
+|2025-2|Compiler Construction|컴파일러구성|||
+|2025-2|Sampling Technique|표본조사론|||
+|2025-2|Experimental Designs|실험계획과응용|||
+|2025-2|Marketing Research|마케팅조사|||
+|2025-2|Bayesian Data Analysis|베이즈데이터분석|||
+|2025-2|Natural Language Processing|자연언어처리|||
