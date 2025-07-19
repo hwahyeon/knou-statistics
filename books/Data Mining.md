@@ -11,7 +11,7 @@
 - [x] Chapter 4: 앙상블모형
 - [x] Chapter 5: 신경망모형
 - [x] Chapter 6: 모형비교평가
-- [ ] Chapter 7: 군집분석
+- [x] Chapter 7: 군집분석
 - [ ] Chapter 8: 연관성분석
 
 ### Translated Chapters
