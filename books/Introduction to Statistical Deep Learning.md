@@ -11,7 +11,7 @@
 - [x] Chapter 4: 딥러닝의 제 문제와 발전
 - [x] Chapter 5: 합성곱신경망의 기초
 - [x] Chapter 6: 합성곱신경망의 응용
-- [ ] Chapter 7: 오토인코더와 GAN
+- [x] Chapter 7: 오토인코더와 GAN
 - [ ] Chapter 8: 순환신경망
 - [ ] Chapter 9: 딥러닝 모형을 이용한 자연어처리
 - [ ] Chapter 10: 딥러닝 실습
