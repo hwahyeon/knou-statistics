@@ -11,7 +11,7 @@
 - [x] Chapter 4: 시계열모형
 - [x] Chapter 5: 시계열모형을 이용한 예측
 - [x] Chapter 6: 회귀모형을 이용한 예측
-- [ ] Chapter 7: 예측 데이터의 분해
+- [x] Chapter 7: 예측 데이터의 분해
 - [ ] Chapter 8: VAR 모형을 이용한 예측
 - [ ] Chapter 9: 공적분분석을 이용한 예측
 - [ ] Chapter 10: 여러 가지 예측방법
